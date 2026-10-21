@@ -50,4 +50,4 @@ More projects will be added as they begin.
 
 <sub>Vector Humanities is directed by <a href="https://github.com/dmberry">David M. Berry</a> (University of Sussex).</sub>
 
-<sub>The mark is the rhombicuboctahedron Leonardo drew for Luca Pacioli's <i>De divina proportione</i> (1509), as a wireframe; the banner sets it over an intarsia pavement after the perspective panels of Fra Giovanni da Verona.</sub>
+<sub>The mark is the rhombicuboctahedron Leonardo drew for Luca Pacioli's <i>De divina proportione</i> (1509), as a wireframe. The banner is an intarsia pavement in perspective, after the inlaid-wood panels of Fra Giovanni da Verona.</sub>
