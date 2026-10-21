@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://vector-humanities.github.io">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-      <img src="banner-light.svg" alt="Vector Humanities: humanities research in the vector medium" width="100%">
-    </picture>
+    <img src="banner.png" alt="Vector Humanities: a rhombicuboctahedron after Leonardo, hung over an intarsia pavement in perspective" width="100%">
   </a>
 </p>
 
@@ -11,8 +8,7 @@
   <a href="https://vector-humanities.github.io"><b>Site</b></a> &nbsp;·&nbsp;
   <a href="#projects">Projects</a> &nbsp;·&nbsp;
   <a href="#methods">Methods</a> &nbsp;·&nbsp;
-  <a href="https://vector-lab-tools.github.io">Vector Lab</a> &nbsp;·&nbsp;
-  <a href="https://stunlaw.blogspot.com">Stunlaw</a>
+  <a href="https://vector-lab-tools.github.io">Vector Lab</a>
 </p>
 
 ---
@@ -49,8 +45,9 @@ More projects will be added as they begin.
 
 - **[Vector Lab](https://vector-lab-tools.github.io)**: research instruments for reading the vector medium.
 - **[Critical Code Studies](https://critical-code-studies.github.io)**: tools and benches for reading code as cultural text.
-- **[Stunlaw](https://stunlaw.blogspot.com)**: the blog where the vector theory sequence is developed.
 
 ---
 
 <sub>Vector Humanities is directed by <a href="https://github.com/dmberry">David M. Berry</a> (University of Sussex).</sub>
+
+<sub>The mark is Leonardo's rhombicuboctahedron (<i>vacuus</i>), drawn for Luca Pacioli's <i>De divina proportione</i> (1509), hung from a vertex; the banner sets it over an intarsia pavement after the perspective panels of Fra Giovanni da Verona.</sub>
