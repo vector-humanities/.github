@@ -1,0 +1,56 @@
+<p align="center">
+  <a href="https://vector-humanities.github.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+      <img src="banner-light.svg" alt="Vector Humanities: humanities research in the vector medium" width="100%">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://vector-humanities.github.io"><b>Site</b></a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#methods">Methods</a> &nbsp;·&nbsp;
+  <a href="https://vector-lab-tools.github.io">Vector Lab</a> &nbsp;·&nbsp;
+  <a href="https://stunlaw.blogspot.com">Stunlaw</a>
+</p>
+
+---
+
+Large language models and diffusion systems hold text, image and sound as positions in high-dimensional vector spaces, and they generate new material by moving through those spaces. Humanities scholars now meet their archives, their sources and their own research tools inside this **vector medium**.
+
+**Vector Humanities** is where humanities projects are carried out in that medium. Each repository has a humanities object at its centre (a book to translate, a corpus to read, an archive to edit) and works on it with methods and theory developed in the wider vector theory programme: the theory of the vector medium, the Vector Lab instruments, critical code studies, and vector translation. The methods are developed elsewhere; the projects here apply them to particular texts and collections.
+
+## Projects
+
+| Project | Object | Method | Status |
+|:--|:--|:--|:--|
+| **偶然性の問題 · The Problem of Contingency** | Kuki Shūzō, *Gūzensei no mondai* (Iwanami, 1935), from the National Diet Library scans of the 1948 printing | Vector translation | Preliminary English translation complete (October 2026), readable and literal versions with apparatus; now being checked against the *Kuki Shūzō zenshū* and Omodaka's French translation (1966) |
+
+More projects will be added as they begin.
+
+## Methods
+
+| Method | Developed in | Used here for |
+|:--|:--|:--|
+| **Vector theory** | Berry, D. M. (2026) '[Vector theory: epistemology, political economy, and probabilistic computation](https://doi.org/10.1007/s13347-026-01162-w)', *Philosophy & Technology*, 39, 149 | The account of the medium: difference becomes distance, meaning becomes location, and the geometry shapes what can be represented, retrieved and said |
+| **Vector Lab** | [vector-lab-tools](https://github.com/vector-lab-tools): Manifold Atlas, LLMbench, Vectorscope, Manifoldscope, Theoryscope | Testing interpretive claims against the measured behaviour of embedding and language models |
+| **Critical code studies** | [critical-code-studies](https://github.com/critical-code-studies) | Close reading of the code, prompts and briefs that do the work in a project |
+| **Vector translation** | First used on Kuki (2026) | A swarm of AI agents works through page images under a shared brief that fixes glossary, register and conventions; each section is drafted as a literal crib and as readable prose, and each is checked against the other and against the source; the translator writes the brief, settles the terms and corrects |
+
+## Working conventions
+
+- **Provenance.** Every project records its source edition, the scans it works from, and their rights status.
+- **Marked hands.** Machine drafting is identified as such. Decisions on terms, readings and corrections are logged in the project with their dates.
+- **Instrument and material.** Where a model is used to read or measure, the project tries to separate what belongs to the instrument from what belongs to the material.
+- **Open where rights allow.** Public-domain sources and project outputs are published here. Third-party scholarship consulted in the work stays out of public repositories.
+
+## Related
+
+- **[Vector Lab](https://vector-lab-tools.github.io)**: research instruments for reading the vector medium.
+- **[Critical Code Studies](https://critical-code-studies.github.io)**: tools and benches for reading code as cultural text.
+- **[Stunlaw](https://stunlaw.blogspot.com)**: the blog where the vector theory sequence is developed.
+
+---
+
+<sub>Vector Humanities is directed by <a href="https://github.com/dmberry">David M. Berry</a> (University of Sussex).</sub>
