@@ -22,7 +22,7 @@ Large language models and diffusion systems hold text, image and sound as positi
 | Project | Object | Method | Status |
 |:--|:--|:--|:--|
 | **偶然性の問題 · The Problem of Contingency** | Kuki Shūzō, *Gūzensei no mondai* (Iwanami, 1935), from the National Diet Library scans of the 1948 printing | Vector translation | Preliminary English translation complete (October 2026), readable and literal versions with apparatus; now being checked against the *Kuki Shūzō zenshū* and Omodaka's French translation (1966) |
-| **[Melville Research Bench](https://vector-humanities.github.io/melville/)** (with Michael Jonik) | Herman Melville, *Billy Budd* in four versions (manuscript before revision, last readings, diplomatic, MEL reading text) and the short tales, from the Melville Electronic Library's TEI | Research bench on [bench-kit](https://github.com/critical-code-studies/bench-kit), the first of the benches whose texts are prose | Bench 0.1.8 live |
+| **[Melville Research Bench](https://vector-humanities.github.io/melville/)** (Michael Jonik and David M. Berry) | Herman Melville, *Billy Budd* in four versions (manuscript before revision, last readings, diplomatic, MEL reading text) and the short tales, from the Melville Electronic Library's TEI | Research bench on [bench-kit](https://github.com/critical-code-studies/bench-kit), the first of the benches whose texts are prose | Bench 0.1.8 live |
 
 More projects will be added as they begin.
 
