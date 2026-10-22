@@ -37,7 +37,8 @@ More projects will be added as they begin.
 | **Vector theory** | Berry, D. M. (2026) '[Vector theory: epistemology, political economy, and probabilistic computation](https://doi.org/10.1007/s13347-026-01162-w)', *Philosophy & Technology*, 39, 149 | The account of the medium: difference becomes distance, meaning becomes location, and the geometry shapes what can be represented, retrieved and said |
 | **Vector Lab** | [vector-lab-tools](https://github.com/vector-lab-tools): Manifold Atlas, LLMbench, Vectorscope, Manifoldscope, Theoryscope | Testing interpretive claims against the measured behaviour of embedding and language models |
 | **Critical code studies** | [critical-code-studies](https://github.com/critical-code-studies) | Close reading of the code, prompts and briefs that do the work in a project |
-| **Vector translation** | First used on Kuki (2026) | A swarm of AI agents works through page images under a shared brief that fixes glossary, register and conventions; each section is drafted as a literal crib and as readable prose, and each is checked against the other and against the source; the translator writes the brief, settles the terms and corrects |
+| **Vector translation** | [vector-translation](https://vector-humanities.github.io/vector-translation/) (v0.1) | A method and toolkit for translating books from page images with AI agents under a translator's direction: procedure, rules, Claude Code skills, brief templates and checking scripts |
+| **Vector Book** | [vector-book](https://github.com/vector-humanities/vector-book) (in development) | Book design and typesetting for editions and translations, from Markdown through Pandoc to Typst |
 
 ## Working conventions
 
