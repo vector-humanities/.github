@@ -42,7 +42,7 @@ More projects will be added as they begin.
 - **Provenance.** Every project records its source edition, the scans it works from, and their rights status.
 - **Marked hands.** Machine drafting is identified as such. Decisions on terms, readings and corrections are logged in the project with their dates.
 - **Instrument and material.** Where a model is used to read or measure, the project tries to separate what belongs to the instrument from what belongs to the material.
-- **Open Access.** Public-domain sources and project outputs are published here. Third-party scholarship consulted in the work stays out of public repositories.
+- **Open Access.** Public-domain sources and project outputs are published here.
 
 ## Related
 
