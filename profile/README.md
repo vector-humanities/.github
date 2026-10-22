@@ -38,7 +38,7 @@ More projects will be added as they begin.
 | **Vector Lab** | [vector-lab-tools](https://github.com/vector-lab-tools): Manifold Atlas, LLMbench, Vectorscope, Manifoldscope, Theoryscope | Testing interpretive claims against the measured behaviour of embedding and language models |
 | **Critical code studies** | [critical-code-studies](https://github.com/critical-code-studies) | Close reading of the code, prompts and briefs that do the work in a project |
 | **Vector translation** | [vector-translation](https://vector-humanities.github.io/vector-translation/) (v0.1) | A method and toolkit for translating books from page images with AI agents under a translator's direction: procedure, rules, Claude Code skills, brief templates and checking scripts |
-| **Vector Book** | [vector-book](https://github.com/vector-humanities/vector-book) (in development) | Book design and typesetting for editions and translations, from Markdown through Pandoc to Typst |
+| **Vector Book** | [vector-book](https://github.com/vector-humanities/vector-book) (alpha) | Book design and typesetting for editions and translations: Markdown through Pandoc and Typst to a print-ready PDF, with source page numbers, translator's notes and glossed figures |
 
 ## Working conventions
 
