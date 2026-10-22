@@ -17,6 +17,8 @@ Large language models and diffusion systems hold text, image and sound as positi
 
 **Vector Humanities** is where humanities projects are carried out in that medium. Each repository has a humanities object at its centre (a book to translate, a corpus to read, an archive to edit) and works on it with methods and theory developed in the wider vector theory programme: the theory of the vector medium, the Vector Lab instruments, critical code studies, and vector translation. The methods are developed elsewhere; the projects here apply them to particular texts and collections.
 
+Vector Humanities also takes a step forward that the vector medium makes possible, here called **humanities engineering**: creating tools, digital or vector-based, that enable humanities scholars to research and work with their materials. The benches, instruments and toolkits under [Methods](#methods) are its first examples.
+
 ## Projects
 
 | Project | Object | Method | Status |
