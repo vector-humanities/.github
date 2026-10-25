@@ -23,6 +23,7 @@ Vector Humanities also takes a step forward that the vector medium makes possibl
 
 | Project | Object | Method | Status |
 |:--|:--|:--|:--|
+| **[Vector Lab](https://vector-lab-tools.github.io)** | The vector medium itself: embedding geometry, token probabilities, diffusion trajectories | Instruments that test interpretive claims against repeatable measurements of model outputs: Manifold Atlas, LLMbench, Vectorscope, Manifoldscope, Theoryscope, Diffusion Atlas, Vectorography | Manifold Atlas and LLMbench live; the others in alpha |
 | **偶然性の問題 · The Problem of Contingency** | Kuki Shūzō, *Gūzensei no mondai* (Iwanami, 1935), from the National Diet Library scans of the 1948 printing | Vector translation | Preliminary English translation complete (October 2026), readable and literal versions with apparatus; now being checked against the *Kuki Shūzō zenshū* and Omodaka's French translation (1966) |
 | **[Melville Research Bench](https://vector-humanities.github.io/melville/)** (Michael Jonik and David M. Berry) | Herman Melville, *Billy Budd* in four versions (manuscript before revision, last readings, diplomatic, MEL reading text) and the short tales, from the Melville Electronic Library's TEI | Research bench on [bench-kit](https://github.com/critical-code-studies/bench-kit), the first of the benches whose texts are prose | Alpha |
 | **[ELIZA (1964–68)](https://findingeliza.org)** (David M. Berry, Sarah Ciston, Anthony C. Hay, Mark C. Marino, Peter Millican, Arthur I. Schwarz, Jeff Shrager and Peggy Weil) | Weizenbaum's ELIZA and DOCTOR (MIT, 1964–68), with its scripts, conversations and ports | Critical code studies: research bench, collation, Implementations and paratext archives | Active: site and bench live |
@@ -37,7 +38,7 @@ More projects will be added as they begin.
 | Method | Developed in | Used here for |
 |:--|:--|:--|
 | **Vector theory** | Berry, D. M. (2026) '[Vector theory: epistemology, political economy, and probabilistic computation](https://doi.org/10.1007/s13347-026-01162-w)', *Philosophy & Technology*, 39, 149 | The account of the medium: difference becomes distance, meaning becomes location, and the geometry shapes what can be represented, retrieved and said |
-| **Vector Lab** | [vector-lab-tools](https://github.com/vector-lab-tools): Manifold Atlas, LLMbench, Vectorscope, Manifoldscope, Theoryscope | Testing interpretive claims against the measured behaviour of embedding and language models |
+| **Vector Lab instruments** | [vector-lab-tools](https://github.com/vector-lab-tools): Manifold Atlas, LLMbench, Vectorscope, Manifoldscope, Theoryscope, Diffusion Atlas, Vectorography | Testing interpretive claims against the measured behaviour of embedding and language models |
 | **Critical code studies** | [critical-code-studies](https://github.com/critical-code-studies) | Close reading of the code, prompts and briefs that do the work in a project |
 | **Computational Hermeneutics** | [Computational-Hermeneutics](https://computational-hermeneutics.github.io/): CCS Workbench, Source Variorum, Glas Bench; hermes-kit in preparation | Close reading and comparison of code and text as cultural artefacts, with the apparatus of textual criticism |
 | **Vector translation** | [vector-translation](https://vector-humanities.github.io/vector-translation/) (v0.1) | A method and toolkit for translating books from page images with AI agents under a translator's direction: procedure, rules, Claude Code skills, brief templates and checking scripts |
@@ -57,6 +58,6 @@ More projects will be added as they begin.
 
 ---
 
-<sub>Vector Humanities is directed by <a href="https://github.com/dmberry">David M. Berry</a> (University of Sussex).</sub>
+<sub>Vector Humanities is a research lab directed by <a href="https://github.com/dmberry">David M. Berry</a> (University of Sussex).</sub>
 
 <sub>The mark is the rhombicuboctahedron Leonardo drew for Luca Pacioli's <i>De divina proportione</i> (1509), as a wireframe. The banner is an intarsia pavement in perspective, after the inlaid-wood panels of Fra Giovanni da Verona.</sub>
