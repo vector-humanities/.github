@@ -28,6 +28,7 @@ Vector Humanities also takes a step forward that the vector medium makes possibl
 | **[ELIZA (1964–68)](https://findingeliza.org)** (David M. Berry, Sarah Ciston, Anthony C. Hay, Mark C. Marino, Peter Millican, Arthur I. Schwarz, Jeff Shrager and Peggy Weil) | Weizenbaum's ELIZA and DOCTOR (MIT, 1964–68), with its scripts, conversations and ports | Critical code studies: research bench, collation, Implementations and paratext archives | Active: site and bench live |
 | **[Spacewar! (1962)](https://spacewar1962.github.io/spacewar/)** (David M. Berry and Mark C. Marino, with Anthony Hay, Sarah Ciston, Art Schwarz, Claire Carroll and Norbert Landsteiner) | The DEC PDP-1 space-combat game written at MIT in 1961–62, its Macro assembly source and surviving versions | Critical code studies reading, with a runnable PDP-1 emulator and the Research Bench | Site and Research Bench live; monograph in progress |
 | **[SHRDLU (1968–70)](https://critical-code-studies.github.io/SHRDLU/)** (David M. Berry and Mark C. Marino) | Terry Winograd's natural-language-understanding program, MacLisp and Micro-Planner, MIT AI Lab | Critical code studies reading, with the SHRDLU Research Bench on bench-kit | Site and Research Bench live |
+| **[Nostos](https://nostos-ai.vercel.app)** (David M. Berry, 2026) | A vibe-coded game and web-world in the vector medium | Vibe coding; critical code studies as play; an in-world Standard ML checked against a formal definition | Playable beta, in development |
 
 More projects will be added as they begin.
 
